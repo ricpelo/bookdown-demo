@@ -1,4 +1,18 @@
 book_filename: "bookdown-demo"
+
 language:
+  label:
+    fig: 'Figura '
+    tab: 'Tabla '
+    eq: 'Ecuación '
+    thm: 'Teorema '
+    lem: 'Lema '
+    def: 'Definición '
+    cor: 'Corolario '
+    prp: 'Proposición '
+    ex: 'Ejemplo '
+    proof: 'Demostración. '
+    remark: 'Comentario. '
   ui:
+    edit: Edit
     chapter_name: ['Capítulo ', ".<br/>"]
